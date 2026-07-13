@@ -1,3 +1,3 @@
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=F75C7E&center=false&vCenter=false&width=435&lines=Hi+there!+I'm+a+Full+Stack+Dev;I+love+building+web+apps;Let's+collaborate!" alt="Typing SVG" />
 
-![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=YOUR-GITHUB-USERNAME&theme=tokyo-night)
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=YOUR-GITHUB-USERNAME&theme=tokyonight)
